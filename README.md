@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="Matrix">
-    <img src="https://matrix.org/images/matrix-logo.svg alt="Matrix Badge"/>
+    <img src="https://matrix.org/images/matrix-logo.svg" alt="Matrix Badge"/>
     </a>
 </div>
 
