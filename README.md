@@ -1,12 +1,18 @@
 # Hi there, I'm AkTheTyke- aka Abhi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a frontend/backend developer
 
----
-- 🌱 Always learning!
-- 📫 How can you contact me? [Matrix](https://matrix.to/#/@ak:freehold.earth)
-- 😄 Pronouns: He/Him
----
+<div id="badges">
+  <a href="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="Matrix">
+    <img src="https://matrix.org/images/matrix-logo.svg alt="Matrix Badge"/>
+    </a>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
