@@ -2,14 +2,14 @@
 
 
 <div id="badges">
-  <a href="YouTube">
+  <a href="https://youtube.com/@abhilashkalyan">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="Twitter">
+  <a href="https://twitter.com/@AkTheTyke">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="Matrix">
-    <img src="https://matrix.org/images/matrix-logo.svg" alt="Matrix Badge"/>
+  <a href="https://matrix.to/#/@ak:freehold.earth">
+    <img src="https://matrix.org/images/matrix-logo-white.svg" alt="Matrix Badge"/>
     </a>
 </div>
 
