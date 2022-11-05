@@ -14,13 +14,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
+
 ---
-<div>
+
 ### :fire: My Stats:
-</div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akthetyke&theme=dark&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
-### 
-<div>:musical_note: My Spotify:
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkTheTyke&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :musical_note: My Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rbwf9py35b7hfycndwxrwvrzl&cover_image=true&theme=default&bar_color=fa0000)](https://spotify-github-profile.vercel.app/api/view?uid=rbwf9py35b7hfycndwxrwvrzl&redirect=true)
+
+---
