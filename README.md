@@ -1,4 +1,4 @@
-# Hi there, I'm AkTheTyke- aka Abhi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Abhi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 
 <div id="badges">
