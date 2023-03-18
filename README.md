@@ -21,8 +21,7 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkTheTyke&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ostrichization&theme=dark)](https://git.io/streak-stats)
 ---
 
 ### :musical_note: My Spotify:
