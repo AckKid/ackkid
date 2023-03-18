@@ -1,16 +1,13 @@
-# Hi there, I'm Abhi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm an Ostrich <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 
 <div id="badges">
-  <a href="https://youtube.com/@abhilashkalyan">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/@AkTheTyke">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://matrix.to/#/@ak:freehold.earth">
+  <a href="https://matrix.to/#/@ostrichization:unredacted.org">
     <img src="https://matrix.org/images/matrix-logo-white.svg" alt="Matrix Badge"/>
-    </a>
+  </a>
+   <a href="https://reddit.com/u/LittleAdIce">
+    <img src="https://www.logo.wine/a/logo/Reddit/Reddit-Logo.wine.svg" alt="Reddit Badge"/>
+  </a> 
 </div>
 
 ### :hammer_and_wrench: Languages and Tools:
