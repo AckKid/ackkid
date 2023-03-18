@@ -4,10 +4,7 @@
 <div id="badges">
   <a href="https://matrix.to/#/@ostrichization:unredacted.org">
     <img src="https://matrix.org/images/matrix-logo-white.svg" alt="Matrix Badge"/>
-  </a>
-   <a href="https://reddit.com/u/LittleAdIce">
-    <img src="https://www.logo.wine/a/logo/Reddit/Reddit-Logo.wine.svg" alt="Reddit Badge"/>
-  </a> 
+ [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LittleAdIce)
 </div>
 
 ### :hammer_and_wrench: Languages and Tools:
