@@ -25,4 +25,4 @@
 ---
 
 ### :musical_note: My Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3152p7ljqdcnhimzhbzx4qzdblmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3152p7ljqdcnhimzhbzx4qzdblmy&redirect=true)
+[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=31l3keqcgnz5wxcdbe4j53f5rfwq&unique={true|1|on|yes})
