@@ -1,4 +1,4 @@
-# Hi there, I'm an Ostrich <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi, I'm Abhilash <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <div id="badges">
   <a href="https://matrix.to/#/@ostrichization:unredacted.org">
