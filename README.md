@@ -24,5 +24,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ostrichization&theme=dark)](https://git.io/streak-stats)
 ---
 
-### :musical_note: My Spotify:
+<!-- ### :musical_note: My Spotify: 
 ![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=31l3keqcgnz5wxcdbe4j53f5rfwq&count=1)
+!-->
